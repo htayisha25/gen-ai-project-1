@@ -1,0 +1,2 @@
+https://www.themealdb.com/api/json/v1/1/categories.php -- > to get the categories   
+www.themealdb.com/api/json/v1/1/lookup.php?i=52772   ---> to get the recipe by id from the above api
